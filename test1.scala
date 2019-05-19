@@ -27,3 +27,6 @@ var suchCenas = 123123
 var potatos = 1231231
 
 var zzz = 123123
+
+
+var potatottt = 1231231
