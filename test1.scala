@@ -26,4 +26,6 @@ var suchCenas = 123123
 
 var potatos = 1231231
 
+var doritos = 123331
+
 var zzz = 123123
